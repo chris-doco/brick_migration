@@ -114,7 +114,7 @@ packages:
     source: hosted
     version: "3.0.1"
   brick_sqlite:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: brick_sqlite
       sha256: d3a810ea0b75248f85b5e701065deb8bd2da868ce9034b2eb447bad5f30ce1e2
